@@ -1,0 +1,6 @@
+Name,Description,Brand,Category,Price,Currency,Stock,EAN,Color,Size,Availability,Internal ID
+Compact Printer Air Advanced Digital,Situation organization these memory much off.,Garner, Boyle and Flynn,Books & Stationery,265,USD,774,2.09E+12,ForestGreen,Large,pre_order,56
+Tablet,Discussion loss politics free one thousand.,Mueller Inc,Shoes & Footwear,502,USD,81,5.29E+12,Black,8x10 in,in_stock,29
+Smart Blender Cooker,No situation per.,Lawson, Keller and Winters,Kitchen Appliances,227,USD,726,1.28E+12,SlateGray,XS,in_stock,70
+Advanced Router Rechargeable,For force gas energy six laugh.,Gallagher and Sons,Kitchen Appliances,121,USD,896,3.88E+12,PaleGreen,L,discontinued,31
+Portable Mouse Monitor Phone,Feeling back religious however author room scientist.,Irwin LLC,Kids' Clothing,1,USD,925,9.06E+12,SeaShell,100x200 mm,discontinued,10
