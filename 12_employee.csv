@@ -1,12 +1,12 @@
 EmpNo,EmpName,DeptName
 1,Adam,IT
-1,Adam,IT
+1A,Adam,IT
 2,Peter,HR
 3,Chris,Finance
-3,Chris,Finance
+3A,Chris,Finance
 4,Alan,Admin
 5,Mayank,HR
-5,Mayank,HR
-5,Mayank,HR
+5A,Mayank,HR
+5B,Mayank,HR
 6,Rajesh ,Sales
 7,Pankaj,Sales
